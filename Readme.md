@@ -1,4 +1,3 @@
-# This is a markdown file.
+# his is a markdown file.
 <br>
-
-# file will be used for learning github.
+file will be used for learning github.
